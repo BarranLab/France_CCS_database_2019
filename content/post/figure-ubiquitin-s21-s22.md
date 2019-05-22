@@ -1,5 +1,5 @@
 +++
-title = "Figure S21/S22"
+title = "Figure S21/S22 - Ubiquitin"
 date = "2019-05-22"
 author = "Lukasz Migas / Aidan France"
 cover = ""
