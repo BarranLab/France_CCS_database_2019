@@ -12,7 +12,7 @@ Myoglobin helium CCSDs. a) Mass spectrum of myoglobin sprayed from 50 mM AmAc so
 
 ## Figure S12
 
-Myoglobin nitrogen CCSDs. Total CCSDs of ubiquitin from the i) Agilent 6560 IMQToF, ii) Waters Synapt G2 (DTIMS) and iii) Waters Synapt G2 (TWIMS). 
+Myoglobin nitrogen CCSDs. Total CCSDs of ubiquitin from the i) Agilent 6560 IMQToF, ii) Waters Synapt G2 (DTIMS) and iii) Waters Synapt G2 (TWIMS).
 
 [Open in another tab](https://france-ccs-2019.netlify.com/assets/MYO_S11&S12.html)
 

@@ -12,7 +12,7 @@ Avidin helium CCSDs. a) Mass spectrum of avidin sprayed from 200 mM AmAc solutio
 
 ## Figure S14
 
-Avidin nitrogen CCSDs. Total CCSDs of avidin from the i) Agilent 6560 IMQToF, ii) Waters Synapt G2 (DTIMS) and iii) Waters Synapt G2 (TWIMS). 
+Avidin nitrogen CCSDs. Total CCSDs of avidin from the i) Agilent 6560 IMQToF, ii) Waters Synapt G2 (DTIMS) and iii) Waters Synapt G2 (TWIMS).
 
 [Open in another tab](https://france-ccs-2019.netlify.com/assets/AVI_S13&S14.html)
 

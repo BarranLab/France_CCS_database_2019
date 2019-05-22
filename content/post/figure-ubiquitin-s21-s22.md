@@ -12,7 +12,7 @@ Single replicate ATDs for ubiquitin obtained across the i) Agilent 6560 IMQToF, 
 
 ## Figure S22
 
-Single replicate ATDs for ubiquitin obtained across the i) Agilent 6560 IMQToF, ii) Waters Synapt G2 (DTIMS) and iii) Waters Synapt G2 (TWIMS) with nitrogen as the drift gas. 
+Single replicate ATDs for ubiquitin obtained across the i) Agilent 6560 IMQToF, ii) Waters Synapt G2 (DTIMS) and iii) Waters Synapt G2 (TWIMS) with nitrogen as the drift gas.
 
 [Open in another tab](https://france-ccs-2019.netlify.com/assets/UBI_S21&S22.html)
 

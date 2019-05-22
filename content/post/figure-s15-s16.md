@@ -12,7 +12,7 @@ BSA helium CCSDs. a) Mass spectrum of BSA sprayed from 200 mM AmAc solution at p
 
 ## Figure S16
 
-BSA nitrogen CCSDs. Total CCSDs of BSA from the i) Agilent 6560 IMQToF, ii) Waters Synapt G2 (DTIMS) and iii) Waters Synapt G2 (TWIMS). 
+BSA nitrogen CCSDs. Total CCSDs of BSA from the i) Agilent 6560 IMQToF, ii) Waters Synapt G2 (DTIMS) and iii) Waters Synapt G2 (TWIMS).
 
 [Open in another tab](https://france-ccs-2019.netlify.com/assets/BSA_S15&S16.html)
 

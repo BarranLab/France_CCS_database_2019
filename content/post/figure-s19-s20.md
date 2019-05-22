@@ -8,7 +8,7 @@ description = "Figure S19/20 - Alcohol dehydrogenase MS and CCSDs"
 
 ## Figure S19
 
-Alcohol dehydrogenase helium CCSDs. a) Mass spectrum of alcohol dehydrogenase sprayed from 200 mM AmAc solution at pH 7.4, where charge states are denoted by z+. b) Total CCSDs of alcohol dehydrogenase from the i) Agilent 6560 IMQToF, ii) Waters Synapt G2 (DTIMS) and iii) Waters Synapt G2 (TWIMS). 
+Alcohol dehydrogenase helium CCSDs. a) Mass spectrum of alcohol dehydrogenase sprayed from 200 mM AmAc solution at pH 7.4, where charge states are denoted by z+. b) Total CCSDs of alcohol dehydrogenase from the i) Agilent 6560 IMQToF, ii) Waters Synapt G2 (DTIMS) and iii) Waters Synapt G2 (TWIMS).
 
 ## Figure S20
 
