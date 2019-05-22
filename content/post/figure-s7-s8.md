@@ -19,7 +19,7 @@ Ubiquitin nitrogen CCSDs. Total CCSDs of ubiquitin from the i) Agilent 6560 IMQT
 ## Embedded figure
 
 <iframe
-    width="875"
+    width="835"
     frameborder="0"
     height="900"
     src="https://france-ccs-2019.netlify.com/assets/UBI_S7&S8.html"
