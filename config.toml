@@ -1,0 +1,35 @@
+baseurl = "/"
+languageCode = "en-uk"
+title = "France :: CCS Database :: 2019"
+theme = "hello-friend"
+copyright = ""
+paginate = 5
+
+[params]
+  subtitle = ""
+  # "light" or "dark"
+  defaultTheme = "light"
+
+[params.logo]
+  logoText = "CCS Database"
+  # or
+  #
+# path = "/img/your-example-logo.svg"
+# alt = "Your example logo alt text"
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "Home"
+    url = "/home"
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about"
+
+[languages]
+  [languages.en]
+    writtenBy = "Written by"
+    readMore = "Read more"
+    readOtherPosts = "See other figures"
