@@ -22,7 +22,7 @@ Avidin nitrogen CCSDs. Total CCSDs of avidin from the i) Agilent 6560 IMQToF, ii
     width="835"
     frameborder="0"
     height="900"
-    src="https://france-ccs-2019.netlify.com/assets/UBI_S7&S8.html"
+    src="https://france-ccs-2019.netlify.com/assets/AVI_S13&S14.html"
     style="background: #FFFFFF;"
 ></iframe>
 
