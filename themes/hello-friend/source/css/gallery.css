@@ -1,0 +1,58 @@
+.container {
+    max-width: 93.5rem;
+    margin: 0 auto;
+    padding: 0 2rem;
+  }
+  
+  .container img {
+    display: block;
+  }
+  
+  /* Gallery items */
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -1rem -1rem;
+    padding-bottom: 1rem;
+    padding-top: 1rem;
+  }
+  
+  .gallery-item {
+    position: relative;
+    flex: 1 0 22rem;
+    margin: 2px;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .gallery-image {
+    width: 100%;
+    object-fit: cover;
+    box-sizing: border-box;
+  }
+  
+  /* Add zoom transformation */
+  .zoom {
+      /* Animation */
+      transition: transform .1s; 
+    }
+    
+    .zoom:hover {
+        border: 2px solid #000;
+        /* (105% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
+        transform: scale(1.05);
+    }
+  
+  /* Responsive grid */
+  @supports (display: grid) {
+      .gallery {
+          display: grid;
+          grid-template-columns: repeat(auto-fit, minmax(9rem, 1fr));
+          grid-gap: 0.1rem;
+      }
+  
+      .gallery {
+          width: auto;
+          margin: 0;
+      }
+  }
