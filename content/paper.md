@@ -1,5 +1,5 @@
 +++
-title = "About"
+title = "Paper"
 date = "2019-07-25"
 author = "Lukasz Migas / Aidan France"
 +++

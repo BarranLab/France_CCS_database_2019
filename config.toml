@@ -24,6 +24,11 @@ paginate = 5
     url = "/home"
 
   [[menu.main]]
+    identifier = "table"
+    name = "Table"
+    url = "/table"
+
+  [[menu.main]]
     identifier = "gallery"
     name = "Gallery"
     url = "/gallery"
