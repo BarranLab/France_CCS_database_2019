@@ -24,6 +24,16 @@ paginate = 5
     url = "/home"
 
   [[menu.main]]
+    identifier = "gallery"
+    name = "Gallery"
+    url = "/gallery"
+
+  [[menu.main]]
+    identifier = "paper"
+    name = "Paper"
+    url = "/paper"
+
+  [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about"
